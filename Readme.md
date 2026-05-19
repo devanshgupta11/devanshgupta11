@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Computer+Vision+Developer;Full+Stack+Developer;Building+AI+Powered+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Computer+Vision+Developer;Full+Stack+Developer;Building+AI+Powered+Projects" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=3B82F6&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=devanshgupta-git&label=Profile%20Views&color=3B82F6&style=flat-square"/>
 </p>
 
 ---
@@ -19,15 +19,15 @@
 
 ### 🚀 About Me
 
-Building projects that solve real-world problems while constantly learning new technologies.
+Building intelligent systems and real-world products through AI and software.
 
-- 🌱 Currently learning **Deep Learning, CNN, Generative AI & System Design**
-- 🔭 Working on **Computer Vision & AI projects**
-- 🛠 Building **ML systems, MERN applications & automation tools**
-- 👯 Open to collaborate on **AI/ML, Full Stack and Open Source projects**
-- 💬 Ask me about **Machine Learning, React, APIs, Python & Project Development**
-- ⚡ Fun fact: **I love creating clean UI designs and turning ideas into working products**
-- 📫 Reach me: **yourmail@gmail.com**
+- 🌱 Currently learning **Deep Learning, CNNs, Generative AI & Scalable Systems**
+- 🔭 Working on **AI/ML and Computer Vision projects**
+- 🛠 Building **MERN applications and automation systems**
+- 👯 Looking to collaborate on **AI/ML, Open Source & Hackathons**
+- 💬 Ask me about **Machine Learning, React, APIs, Node.js & Python**
+- ⚡ Fun fact: **I enjoy creating clean UI/UX because good design simplifies technology**
+- 📫 Reach me: **your-email@gmail.com**
 
 </td>
 
@@ -36,12 +36,13 @@ Building projects that solve real-world problems while constantly learning new t
 ### 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,mongodb,html,css,git,github,firebase,vscode,postman,figma,tensorflow&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nextjs,nodejs,express,mongodb,html,css,firebase,git,github,vscode,postman,figma,tensorflow&perline=6"/>
 </p>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -49,22 +50,22 @@ Building projects that solve real-world problems while constantly learning new t
 ## 💻 Featured Projects
 
 🚗 **License Plate Detection System**
-- Built using **YOLO + Norfair + OpenCV + SAM**
-- Real-time vehicle tracking and number plate extraction
+- YOLO + OpenCV + Norfair + SAM
+- Real-time detection and tracking
 
 📊 **Keyword Research Dashboard**
-- Built using **RapidAPI + PyTrends + SerpAPI**
-- Search volume, trends and keyword insights
+- RapidAPI + PyTrends + SerpAPI
+- Search volume & keyword analysis
 
-📱 **Skills Hub Android App**
+📱 **Skills Hub App**
 - XML + Java + Firebase
-- Learning platform + freelance ecosystem
+- Learning + Freelance ecosystem
 
 🚘 **Used Car Price Estimator**
-- Machine Learning model with web scraping and prediction
+- ML-based prediction system
 
-🤖 **Sign Language Translation Glove**
-- Hardware + AI based communication system
+🤟 **Sign Language Translation Glove**
+- Hardware + AI communication system
 
 ---
 
@@ -72,11 +73,11 @@ Building projects that solve real-world problems while constantly learning new t
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devanshgupta-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshgupta-git&layout=compact&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=devanshgupta-git&theme=tokyonight"/>
 
 </div>
 
@@ -85,7 +86,7 @@ Building projects that solve real-world problems while constantly learning new t
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshgupta-git&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -94,19 +95,19 @@ Building projects that solve real-world problems while constantly learning new t
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_LINK">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/devanshgupta-git">
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="YOUR_INSTAGRAM_LINK">
 <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:your-email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
@@ -115,5 +116,5 @@ Building projects that solve real-world problems while constantly learning new t
 ---
 
 <p align="center">
-<i>"Code. Build. Learn. Repeat."</i>
+<i>"Code • Build • Learn • Repeat"</i>
 </p>
