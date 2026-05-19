@@ -47,27 +47,6 @@ Building intelligent systems and real-world products through AI and software.
 
 ---
 
-## 💻 Featured Projects
-
-🚗 **License Plate Detection System**
-- YOLO + OpenCV + Norfair + SAM
-- Real-time detection and tracking
-
-📊 **Keyword Research Dashboard**
-- RapidAPI + PyTrends + SerpAPI
-- Search volume & keyword analysis
-
-📱 **Skills Hub App**
-- XML + Java + Firebase
-- Learning + Freelance ecosystem
-
-🚘 **Used Car Price Estimator**
-- ML-based prediction system
-
-🤟 **Sign Language Translation Glove**
-- Hardware + AI communication system
-
----
 
 ## 📊 GitHub Stats
 
@@ -95,7 +74,7 @@ Building intelligent systems and real-world products through AI and software.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/devansh-gupta-a16ba1327/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
@@ -103,11 +82,8 @@ Building intelligent systems and real-world products through AI and software.
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK">
-<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
-</a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:devansh.gupta1311@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
