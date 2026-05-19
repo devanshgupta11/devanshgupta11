@@ -27,7 +27,7 @@ Building intelligent systems and real-world products through AI and software.
 - 👯 Looking to collaborate on **AI/ML, Open Source & Hackathons**
 - 💬 Ask me about **Machine Learning, React, APIs, Node.js & Python**
 - ⚡ Fun fact: **I enjoy creating clean UI/UX because good design simplifies technology**
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **devansh.gupta1311@gmail.com**
 
 </td>
 
