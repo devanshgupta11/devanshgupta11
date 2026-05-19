@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=Devansh%20Gupta&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=200&section=header&text=Devansh%20Gupta&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF"/>
 </p>
 
 <h1 align="center">
@@ -78,7 +78,7 @@ Building intelligent systems and real-world products through AI and software.
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="https://github.com/devanshgupta-git">
+<a href="https://github.com/devanshgupta11">
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
