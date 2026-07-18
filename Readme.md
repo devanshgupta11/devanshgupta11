@@ -1,96 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=200&section=header&text=Devansh%20Gupta&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF"/>
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B61FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Computer+Vision+Developer;Full+Stack+Developer;Building+AI+Powered+Projects" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devanshgupta-git&label=Profile%20Views&color=7B61FF&style=flat-square"/>
-</p>
-
----
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 About Me
-
-Building intelligent systems and real-world products through AI and software.
-
-- 🌱 Currently learning **Deep Learning, CNNs, Generative AI & Scalable Systems**
-- 🔭 Working on **AI/ML and Computer Vision projects**
-- 🛠 Building **MERN applications and automation systems**
-- 👯 Looking to collaborate on **AI/ML, Open Source & Hackathons**
-- 💬 Ask me about **Machine Learning, React, APIs, Node.js & Python**
-- ⚡ Fun fact: **I enjoy creating clean UI/UX because good design simplifies technology**
-- 📫 Reach me: **devansh.gupta1311@gmail.com**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nextjs,nodejs,express,mongodb,html,css,firebase,git,github,vscode,postman,figma,tensorflow&perline=6"/>
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devanshgupta11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<h3><code>devansh@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshgupta11&layout=compact&theme=tokyonight"/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=devanshgupta11&theme=tokyonight"/>
+<h3><code>devansh@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./devansh-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshgupta11&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/devansh-gupta-a16ba1327/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="https://github.com/devanshgupta11">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-
-<a href="mailto:devansh.gupta1311@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<i>"Code • Build • Learn • Repeat"</i>
-</p>

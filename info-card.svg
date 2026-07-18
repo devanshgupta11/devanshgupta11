@@ -1,0 +1,19 @@
+<svg viewBox="0 0 490 186" width="490" height="186" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Menlo, monospace">
+<rect x="0" y="0" width="490" height="186" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+        <style>
+          .line { opacity: 0; transform: translateX(-6px); animation: type-in 0.35s ease-out forwards; }
+          @keyframes type-in { to { opacity: 1; transform: translateX(0); } }
+        </style>
+        
+<circle cx="18" cy="18" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="18" r="6" fill="#ffbd2e"/>
+<circle cx="58" cy="18" r="6" fill="#27c93f"/>
+<text x="245.0" y="22" text-anchor="middle" fill="#8b949e" font-size="12">devansh@github</text>
+<line x1="0" y1="34" x2="490" y2="34" stroke="#30363d" stroke-width="1"/>
+<text class="line" style="animation-delay:0.15s" x="24" y="46"><tspan fill="#39d353" font-weight="bold">Now</tspan><tspan fill="#c9d1d9">:  AI &amp; Full-Stack Developer @ TTL Engg. Pvt. Ltd.</tspan></text>
+<text class="line" style="animation-delay:0.33s" x="24" y="70"><tspan fill="#39d353" font-weight="bold">Prev</tspan><tspan fill="#c9d1d9">:  Building real-world CV / GenAI projects</tspan></text>
+<text class="line" style="animation-delay:0.51s" x="24" y="94"><tspan fill="#39d353" font-weight="bold">Stack</tspan><tspan fill="#c9d1d9">:  Python, C++, Java, JS, React, Next.js, Node, Express</tspan></text>
+<text class="line" style="animation-delay:0.69s" x="24" y="118"><tspan fill="#39d353" font-weight="bold">Learning</tspan><tspan fill="#c9d1d9">:  Deep Learning, CNNs, Generative AI &amp; Scalable Systems</tspan></text>
+<text class="line" style="animation-delay:0.87s" x="24" y="142"><tspan fill="#39d353" font-weight="bold">Highlights</tspan><tspan fill="#c9d1d9">:  5 followers, 25 repos, active daily on GitHub</tspan></text>
+</svg>
